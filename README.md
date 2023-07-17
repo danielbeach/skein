@@ -10,3 +10,10 @@ You can send a message to this port from a `terminal` on your machine and the
 scheduler will print it out.
 
 Something like `echo "Justin I did it" | nc -c localhost 1024`
+
+![alt text](![alt text](https://github.com/danielbeach/skein/blob/main/imgs/echo.png?raw=true)
+)
+![alt text](![alt text](https://github.com/danielbeach/skein/blob/main/imgs/node.webp?raw=true)
+)
+
+
