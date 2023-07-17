@@ -11,9 +11,9 @@ scheduler will print it out.
 
 Something like `echo "Justin I did it" | nc -c localhost 1024`
 
-![alt text](![alt text](https://github.com/danielbeach/skein/blob/main/imgs/echo.png?raw=true)
+(![alt text](https://github.com/danielbeach/skein/blob/main/imgs/echo.png?raw=true)
 )
-![alt text](![alt text](https://github.com/danielbeach/skein/blob/main/imgs/node.webp?raw=true)
+(![alt text](https://github.com/danielbeach/skein/blob/main/imgs/node.webp?raw=true)
 )
 
 
