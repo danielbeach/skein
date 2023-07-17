@@ -1,5 +1,5 @@
 # skein
-#### Rust-based attempt at Distributed Processing using DuckDB as the engine.
+#### Rust-based attempt at Distributed Processing, learning things.
 
 The idea is to use `Rust` to write a simple distributed data processing system. 
 Through this exercise, we will learn the basics of building a distributed system.
